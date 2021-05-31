@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Sushanta
+ * @author Sushanta (Sayantan Chakraborty)
  */
 public class Config {
     
